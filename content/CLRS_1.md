@@ -16,8 +16,8 @@ An excerpt or section from the book 'Introduction to Algorithms' by Cormen, Leis
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to CLRS 1]]
-- Concepts from: [[Other Concepts Linked to CLRS 1]]
+- Related topic: [[Algorithms]], [[Mathematical Proofs]]
+- Concepts from: [[Data Structures]], [[Computer Science]]
 ---
 
 ## Next Steps

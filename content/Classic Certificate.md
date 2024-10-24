@@ -16,8 +16,8 @@ A classic certificate design, typically used for awards or recognition of achiev
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Classic Certificate]]
-- Concepts from: [[Other Concepts Linked to Classic Certificate]]
+- Related topic: [[Design]], [[Template]]
+- Concepts from: [[Achievement]], [[Awards]]
 ---
 
 ## Next Steps

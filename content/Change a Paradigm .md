@@ -16,8 +16,8 @@ This document explores the concept of changing paradigms and how it can impact p
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Change a Paradigm]]
-- Concepts from: [[Other Concepts Linked to Change a Paradigm]]
+- Related topic: [[Paradigm Shift Goal Card]], [[Atomic Habits]]
+- Concepts from: [[Self-development]], [[Personal Growth]]
 ---
 
 ## Next Steps

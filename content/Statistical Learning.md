@@ -16,8 +16,8 @@ An exploration of statistical learning theory, providing insights into data mode
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Statistical Learning]]
-- Concepts from: [[Other Concepts Linked to Vibe - Statistical Learning]]
+- Related topic: [[Data Science]], [[Machine Learning]]
+- Concepts from: [[Mathematical Proofs]], [[Algorithms]]
 ---
 
 ## Next Steps

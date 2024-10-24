@@ -16,8 +16,8 @@ This document explains the role of dopamine in the brain, its pathways, and how 
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Dopamine]]
-- Concepts from: [[Other Concepts Linked to Vibe - Dopamine]]
+- Related topic: [[Psychological Development]], [[Addicts]]
+- Concepts from: [[Neuroscience]], [[Psychology]]
 ---
 
 ## Next Steps

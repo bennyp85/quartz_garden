@@ -16,8 +16,8 @@ This document covers various theories of psychological development and how they 
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Psychological Development]]
-- Concepts from: [[Other Concepts Linked to Vibe - Psychological Development]]
+- Related topic: [[Dopamine]], [[Focus]]
+- Concepts from: [[Human Mind]], [[Development]]
 ---
 
 ## Next Steps

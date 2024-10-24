@@ -16,8 +16,8 @@ This document covers the fundamentals of the C family of programming languages, 
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - C Family of Languages]]
-- Concepts from: [[Other Concepts Linked to Vibe - C Family of Languages]]
+- Related topic: [[Automata]], [[Programming]]
+- Concepts from: [[Languages]], [[Compilers]]
 ---
 
 ## Next Steps

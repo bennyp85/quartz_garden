@@ -16,8 +16,8 @@ The content of this document is unclear, but it could be related to a variety of
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Bottom Seat]]
-- Concepts from: [[Other Concepts Linked to Bottom Seat]]
+- Related topic: [[Unclear Content]], [[Various Topics]]
+- Concepts from: [[Miscellaneous]], [[Document]]
 ---
 
 ## Next Steps

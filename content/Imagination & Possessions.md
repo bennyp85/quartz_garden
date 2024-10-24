@@ -16,8 +16,8 @@ A discussion on the role of imagination in shaping our perceptions of possession
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Imagination & Possessions]]
-- Concepts from: [[Other Concepts Linked to Imagination & Possessions]]
+- Related topic: [[Ideas & Fantasy]], [[Philosophy]]
+- Concepts from: [[Psychology]], [[Materialism]]
 ---
 
 ## Next Steps

@@ -16,8 +16,8 @@ A document focusing on career planning, growth strategies, and professional deve
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Career]]
-- Concepts from: [[Other Concepts Linked to Career]]
+- Related topic: [[Employee Characteristics]], [[2024]]
+- Concepts from: [[Professional Development]], [[Planning]]
 ---
 
 ## Next Steps

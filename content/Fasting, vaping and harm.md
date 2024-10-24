@@ -16,8 +16,8 @@ A discussion on the health impacts of fasting, vaping, and other behaviors, poss
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Fasting, Vaping, and Harm]]
-- Concepts from: [[Other Concepts Linked to Fasting, Vaping, and Harm]]
+- Related topic: [[Psychological Development]], [[Health]]
+- Concepts from: [[Dopamine]], [[Public Health]]
 ---
 
 ## Next Steps

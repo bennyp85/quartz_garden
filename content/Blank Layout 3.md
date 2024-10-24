@@ -16,8 +16,8 @@ Another blank template for information organization, likely used for structured 
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Blank Layout 3]]
-- Concepts from: [[Other Concepts Linked to Blank Layout 3]]
+- Related topic: [[Blank Layout]], [[Design]]
+- Concepts from: [[Template]], [[Blank Layout 2]]
 ---
 
 ## Next Steps

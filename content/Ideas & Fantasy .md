@@ -16,8 +16,8 @@ This document explores the connection between ideas and fantasy, focusing on how
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Ideas & Fantasy]]
-- Concepts from: [[Other Concepts Linked to Ideas & Fantasy]]
+- Related topic: [[Imagination & Possessions]], [[Creativity]]
+- Concepts from: [[Philosophy]], [[Imagination]]
 ---
 
 ## Next Steps

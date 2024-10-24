@@ -16,8 +16,8 @@ An introduction to the foundational concepts of algebra, including variables, eq
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Algebra 1]]
-- Concepts from: [[Other Concepts Linked to Algebra 1]]
+- Related topic: [[Algebra 2]], [[Mathematical Proofs]]
+- Concepts from: [[Mathematics]], [[Foundations]]
 ---
 
 ## Next Steps

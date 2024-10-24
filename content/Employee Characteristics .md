@@ -16,8 +16,8 @@ This document explores the key characteristics of employees, including traits th
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Employee Characteristics]]
-- Concepts from: [[Other Concepts Linked to Employee Characteristics]]
+- Related topic: [[Psychological Development]], [[Career]]
+- Concepts from: [[Workforce]], [[Human Resources]]
 ---
 
 ## Next Steps

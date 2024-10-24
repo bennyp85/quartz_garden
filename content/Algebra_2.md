@@ -16,8 +16,8 @@ This document continues from Algebra 1, exploring more advanced algebraic concep
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Algebra 2]]
-- Concepts from: [[Other Concepts Linked to Algebra 2]]
+- Related topic: [[Algebra 1]], [[Mathematical Proofs]]
+- Concepts from: [[AMC 1]], [[Lambda Calculus]]
 ---
 
 ## Next Steps

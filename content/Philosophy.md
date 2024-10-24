@@ -16,8 +16,8 @@ An exploration of philosophical concepts, including discussions on the nature of
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Philosophy]]
-- Concepts from: [[Other Concepts Linked to Philosophy]]
+- Related topic: [[Metaphysics]], [[Ideas & Fantasy]]
+- Concepts from: [[Theory]], [[Thought]]
 ---
 
 ## Next Steps

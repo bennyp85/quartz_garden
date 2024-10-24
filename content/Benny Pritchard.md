@@ -16,8 +16,8 @@ A personal profile or biographical document about Benny Pritchard, possibly outl
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Benny Pritchard]]
-- Concepts from: [[Other Concepts Linked to Benny Pritchard]]
+- Related topic: [[Personal Growth]], [[Motivation]]
+- Concepts from: [[Biography]], [[Profile]]
 ---
 
 ## Next Steps

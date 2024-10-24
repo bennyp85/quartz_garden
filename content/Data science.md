@@ -16,8 +16,8 @@ An introductory guide to data science, covering topics like machine learning, da
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Data Science]]
-- Concepts from: [[Other Concepts Linked to Data Science]]
+- Related topic: [[Statistical Learning]], [[Machine Learning]]
+- Concepts from: [[Mathematical Proofs]], [[Algorithms]]
 ---
 
 ## Next Steps

@@ -16,8 +16,8 @@ A practice quiz covering multiple topics including statistical learning, dopamin
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Quiz 4]]
-- Concepts from: [[Other Concepts Linked to Vibe - Quiz 4]]
+- Related topic: [[Statistical Learning]], [[Dopamine]]
+- Concepts from: [[Assessment]], [[Practice]]
 ---
 
 ## Next Steps

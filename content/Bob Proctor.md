@@ -16,8 +16,8 @@ This document presents ideas and teachings from Bob Proctor, a well-known figure
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Bob Proctor]]
-- Concepts from: [[Other Concepts Linked to Bob Proctor]]
+- Related topic: [[Change a Paradigm]], [[Atomic Habits]]
+- Concepts from: [[Motivation]], [[Personal Growth]]
 ---
 
 ## Next Steps

@@ -16,8 +16,8 @@ A technical document covering topics related to digital signal processing (DSP),
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to 30K DSP]]
-- Concepts from: [[Other Concepts Linked to 30K DSP]]
+- Related topic: [[DSP Cancellation]], [[Digital Signal Processing]]
+- Concepts from: [[Engineering]], [[Mathematics]]
 ---
 
 ## Next Steps

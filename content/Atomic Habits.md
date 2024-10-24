@@ -16,8 +16,8 @@ A summary or discussion of the key concepts from the book 'Atomic Habits' by Jam
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Atomic Habits]]
-- Concepts from: [[Other Concepts Linked to Atomic Habits]]
+- Related topic: [[Habit Scorecard]], [[Focus]]
+- Concepts from: [[Psychological Development]], [[Change a Paradigm]]
 ---
 
 ## Next Steps

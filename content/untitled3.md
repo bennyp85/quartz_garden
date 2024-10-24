@@ -16,8 +16,8 @@ A third document with no clear title or content, potentially related to mathemat
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Untitled 3]]
-- Concepts from: [[Other Concepts Linked to Vibe - Untitled 3]]
+- Related topic: [[Mathematics]], [[Vibe - Untitled 3]]
+- Concepts from: [[Miscellaneous]], [[Mathematical Theory]]
 ---
 
 ## Next Steps

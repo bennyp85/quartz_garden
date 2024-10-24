@@ -16,8 +16,8 @@ A scorecard designed to track personal habits and improvements over time, as par
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Habit Scorecard]]
-- Concepts from: [[Other Concepts Linked to Habit Scorecard]]
+- Related topic: [[Atomic Habits]], [[Focus]]
+- Concepts from: [[Self-improvement]], [[Change a Paradigm]]
 ---
 
 ## Next Steps

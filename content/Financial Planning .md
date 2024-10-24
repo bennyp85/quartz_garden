@@ -16,8 +16,8 @@ This document provides strategies and methods for effective financial planning a
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Financial Planning]]
-- Concepts from: [[Other Concepts Linked to Financial Planning]]
+- Related topic: [[Career]], [[2024]]
+- Concepts from: [[Finance]], [[Planning]]
 ---
 
 ## Next Steps

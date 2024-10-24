@@ -16,8 +16,8 @@ A document covering the theory of automata, including finite automata, regular l
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Automata]]
-- Concepts from: [[Other Concepts Linked to Automata]]
+- Related topic: [[C Family of Languages]], [[Computer Science]]
+- Concepts from: [[Theory]], [[Lambda Calculus]]
 ---
 
 ## Next Steps

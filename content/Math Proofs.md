@@ -16,8 +16,8 @@ An exploration of mathematical proofs, focusing on formal logic, structure, and 
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Mathematical Proofs]]
-- Concepts from: [[Other Concepts Linked to Mathematical Proofs]]
+- Related topic: [[Algebra 1]], [[Algorithms]]
+- Concepts from: [[Mathematics]], [[Logic]]
 ---
 
 ## Next Steps

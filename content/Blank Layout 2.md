@@ -16,8 +16,8 @@ A blank template or layout for organizing information, possibly intended for pla
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Blank Layout 2]]
-- Concepts from: [[Other Concepts Linked to Blank Layout 2]]
+- Related topic: [[Blank Layout]], [[Design]]
+- Concepts from: [[Template]], [[Blank Layout 3]]
 ---
 
 ## Next Steps

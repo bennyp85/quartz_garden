@@ -16,8 +16,8 @@ A workbook used in a seminar focused on creating a paradigm shift in one’s per
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Paradigm Shift Seminar Workbook]]
-- Concepts from: [[Other Concepts Linked to Paradigm Shift Seminar Workbook]]
+- Related topic: [[Paradigm Shift Goal Card]], [[Change a Paradigm]]
+- Concepts from: [[Personal Growth]], [[Seminar]]
 ---
 
 ## Next Steps

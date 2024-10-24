@@ -16,8 +16,8 @@ This document explores techniques to improve focus and concentration for better 
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Focus]]
-- Concepts from: [[Other Concepts Linked to Focus]]
+- Related topic: [[Atomic Habits]], [[Productivity]]
+- Concepts from: [[Psychological Development]], [[Habit Scorecard]]
 ---
 
 ## Next Steps

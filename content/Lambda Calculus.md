@@ -16,8 +16,8 @@ This document provides an introduction to lambda calculus, its rules, and how it
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Lambda Calculus]]
-- Concepts from: [[Other Concepts Linked to Vibe - Lambda Calculus]]
+- Related topic: [[Automata]], [[Programming]]
+- Concepts from: [[Mathematics]], [[Formal Logic]]
 ---
 
 ## Next Steps

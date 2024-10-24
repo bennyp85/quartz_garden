@@ -16,8 +16,8 @@ A second document with unspecified content, likely touching on mathematics or pr
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Untitled 2]]
-- Concepts from: [[Other Concepts Linked to Vibe - Untitled 2]]
+- Related topic: [[Mathematics]], [[Programming]]
+- Concepts from: [[Vibe - Untitled 2]], [[Miscellaneous]]
 ---
 
 ## Next Steps

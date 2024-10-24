@@ -16,8 +16,8 @@ This document delves into the psychological and behavioral aspects of addiction,
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Addicts]]
-- Concepts from: [[Other Concepts Linked to Addicts]]
+- Related topic: [[Dopamine]], [[Psychological Development]]
+- Concepts from: [[Psychology]], [[Behavior]]
 ---
 
 ## Next Steps

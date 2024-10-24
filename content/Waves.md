@@ -16,8 +16,8 @@ This document explains the principles of wave theory, including mechanical waves
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Waves]]
-- Concepts from: [[Other Concepts Linked to Vibe - Waves]]
+- Related topic: [[Physics]], [[Mathematical Proofs]]
+- Concepts from: [[Vibrations]], [[Engineering]]
 ---
 
 ## Next Steps

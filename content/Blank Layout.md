@@ -16,8 +16,8 @@ A basic layout template for organizing content or ideas.
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Blank Layout]]
-- Concepts from: [[Other Concepts Linked to Blank Layout]]
+- Related topic: [[Blank Layout 2]], [[Design]]
+- Concepts from: [[Template]], [[Blank Layout 3]]
 ---
 
 ## Next Steps

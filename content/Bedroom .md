@@ -16,8 +16,8 @@ This document explores ideas related to bedroom design, focusing on how personal
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Bedroom]]
-- Concepts from: [[Other Concepts Linked to Bedroom]]
+- Related topic: [[Interior Design]], [[Well-being]]
+- Concepts from: [[Personal Space]], [[Design]]
 ---
 
 ## Next Steps

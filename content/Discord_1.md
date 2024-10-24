@@ -16,8 +16,8 @@ This document may cover features or use cases related to Discord, a communicatio
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Discord 1]]
-- Concepts from: [[Other Concepts Linked to Discord 1]]
+- Related topic: [[Technology]], [[Community]]
+- Concepts from: [[Communication]], [[Platform]]
 ---
 
 ## Next Steps

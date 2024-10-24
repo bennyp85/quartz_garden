@@ -16,8 +16,8 @@ This document likely contains designs or information related to business cards a
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Business Cards]]
-- Concepts from: [[Other Concepts Linked to Business Cards]]
+- Related topic: [[Design]], [[Networking]]
+- Concepts from: [[Branding]], [[Template]]
 ---
 
 ## Next Steps

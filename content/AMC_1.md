@@ -16,8 +16,8 @@ A collection of challenging mathematics problems typically seen in competitive e
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to AMC 1]]
-- Concepts from: [[Other Concepts Linked to AMC 1]]
+- Related topic: [[Algebra 1]], [[Mathematical Proofs]]
+- Concepts from: [[Mathematics]], [[Competition]]
 ---
 
 ## Next Steps

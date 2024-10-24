@@ -16,8 +16,8 @@ A document with unspecified content, possibly related to statistical learning or
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Untitled 1]]
-- Concepts from: [[Other Concepts Linked to Vibe - Untitled 1]]
+- Related topic: [[Statistical Learning]], [[Philosophy]]
+- Concepts from: [[Metaphysics]], [[Data Science]]
 ---
 
 ## Next Steps

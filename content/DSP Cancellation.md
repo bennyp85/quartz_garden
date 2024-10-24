@@ -16,8 +16,8 @@ A technical document likely covering the cancellation of signals in digital sign
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to DSP Cancellation]]
-- Concepts from: [[Other Concepts Linked to DSP Cancellation]]
+- Related topic: [[30K DSP]], [[Mathematics]]
+- Concepts from: [[Digital Signal Processing]], [[Engineering]]
 ---
 
 ## Next Steps

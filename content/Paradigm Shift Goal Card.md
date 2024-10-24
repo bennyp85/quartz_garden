@@ -16,8 +16,8 @@ A tool for personal development focused on achieving a paradigm shift by setting
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Paradigm Shift Goal Card]]
-- Concepts from: [[Other Concepts Linked to Paradigm Shift Goal Card]]
+- Related topic: [[Change a Paradigm]], [[Atomic Habits]]
+- Concepts from: [[Self-development]], [[Goals]]
 ---
 
 ## Next Steps

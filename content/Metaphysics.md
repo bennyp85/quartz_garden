@@ -16,8 +16,8 @@ This document delves into the principles of metaphysics, exploring the nature of
   
 ## Reference to Other Notes
 
-- Related topic: [[Other Notes Related to Vibe - Metaphysics]]
-- Concepts from: [[Other Concepts Linked to Vibe - Metaphysics]]
+- Related topic: [[Philosophy]], [[Theoretical Concepts]]
+- Concepts from: [[Vibe - Metaphysics]], [[Philosophy]]
 ---
 
 ## Next Steps
