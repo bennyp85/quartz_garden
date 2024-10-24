@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Metaphysics"
+title: "Metaphysics"
 date: "2024-10-25"
 tags: ['philosophy', 'metaphysics', 'theory']
 ---

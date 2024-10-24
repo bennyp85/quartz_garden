@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Psychological Development"
+title: "Psychological Development"
 date: "2024-10-25"
 tags: ['psychology', 'development', 'human mind']
 ---

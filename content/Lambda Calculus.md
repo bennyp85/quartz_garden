@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Lambda Calculus"
+title: "Lambda Calculus"
 date: "2024-10-25"
 tags: ['mathematics', 'lambda calculus', 'formal logic']
 ---

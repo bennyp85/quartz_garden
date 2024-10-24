@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Statistical Learning"
+title: "Statistical Learning"
 date: "2024-10-25"
 tags: ['statistics', 'machine learning', 'data science']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Waves"
+title: "Waves"
 date: "2024-10-25"
 tags: ['physics', 'waves', 'vibrations']
 ---

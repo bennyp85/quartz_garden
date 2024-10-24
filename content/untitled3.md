@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Untitled 3"
+title: "Untitled 3"
 date: "2024-10-25"
 tags: ['miscellaneous', 'untitled']
 ---

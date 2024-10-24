@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Dopamine"
+title: "Dopamine"
 date: "2024-10-25"
 tags: ['neuroscience', 'dopamine', 'psychology']
 ---

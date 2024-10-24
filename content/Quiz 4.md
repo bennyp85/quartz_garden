@@ -1,5 +1,5 @@
 ---
-title: "Vibe - Quiz 4"
+title: "Quiz 4"
 date: "2024-10-25"
 tags: ['quiz', 'assessment', 'practice']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Vibe - C Family of Languages"
+title: "C Family of Languages"
 date: "2024-10-25"
 tags: ['programming', 'C family', 'languages', 'compilers']
 ---
