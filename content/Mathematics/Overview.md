@@ -1,4 +1,3 @@
----
 title: "Mathematics Department"
 tags: ['mathematics', 'overview']
 ---

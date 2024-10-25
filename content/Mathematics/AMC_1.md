@@ -1,4 +1,3 @@
----
 title: "AMC 1"
 date: "2024-10-25"
 tags: ['mathematics', 'competition', 'problems']
@@ -16,8 +15,8 @@ A collection of challenging mathematics problems typically seen in competitive e
   
 ## Reference to Other Notes
 
-- Related topic: [[Algebra 1]], [[Mathematical Proofs]]
-- Concepts from: [[Mathematics]], [[Competition]]
+- Related topic: [[Algebra_1|Algebra Fundamentals]], [[Mathematical Proofs|Proof Theory]]
+- Concepts from: [[Mathematics Department|Mathematics]], [[Competition]]
 ---
 
 ## Next Steps

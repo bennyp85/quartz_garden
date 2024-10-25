@@ -1,4 +1,3 @@
----
 title: "Mathematical Foundations"
 date: "2024-10-25"
 tags: ['mathematics', 'proofs', 'logic', 'foundations']
@@ -34,8 +33,8 @@ Mathematical proofs are the foundation of rigorous mathematical thinking. They i
 
 ## Applications
 
-- [[Computer Science]] - Algorithm Analysis
-- [[Engineering]] - Applied Mathematics
+- [[Computer_Science/Overview|Computer Science]] - Algorithm Analysis
+- [[Engineering/Overview|Engineering]] - Applied Mathematics
 - [[Data Science]] - Statistical Methods
 
 ## Related Topics

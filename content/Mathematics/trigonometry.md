@@ -1,4 +1,3 @@
----
 title: "Trigonometry"
 date: "2024-10-25"
 tags: ['mathematics', 'trigonometry', 'advanced topics']
@@ -18,7 +17,7 @@ This document explores advanced trigonometric concepts such as sine, cosine, tan
   
 ## Reference to Other Notes
 
-- Related topic: [[Algebra 2]], [[Geometry]]
+- Related topic: [[Algebra_2|Advanced Algebra]], [[Geometry]]
 - Concepts from: [[Trigonometric Identities]], [[Unit Circle]]
 ---
 
